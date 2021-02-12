@@ -15,7 +15,7 @@
 [<img align="left" alt="kalihackz | YouTube" width="30px" src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" />][youtube]
 [<img align="left" alt="kalihackz | Facebook" width="30px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
 [<img align="left" alt="kalihackz | Instagram" width="30px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
-[<img align="left" alt="kalihackz | Twitter" width="30px" src="http://pngimg.com/uploads/twitter/twitter_PNG95259.png" />][twitter]
+[<img align="left" alt="kalihackz | Twitter" width="30px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
 
 <br />
 
