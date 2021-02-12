@@ -30,7 +30,9 @@
 | <img alt="Bash" title="Bash" width="110px" src="https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" /> Bash|<img alt="MySQL" title="MySQL" width="80px" src="https://labs.mysql.com/common/logos/mysql-logo.svg" /> MySQL|<img alt="MongoDB" title="MongoDB" width="150px" src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" /> MongoDB||
 <br />
 <br />
-## 💳 Language Card
+
+### 💳 Language Card
+
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" />
 
 <br />
