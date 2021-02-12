@@ -29,7 +29,7 @@
 <br />
 <br />
 ## 💳 Language Card
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=mridul2820&&layout=compact" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=kalihackz&&layout=compact" />
 
 <br />
 
