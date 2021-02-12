@@ -1,3 +1,5 @@
+<img alt="Issues" src="https://img.shields.io/badge/user-Kalihackz-blueviolet" /> <img alt="Issues" src="https://img.shields.io/badge/tags-student , developer , hacker-blue" /> 
+
 ## Hi, I'm Kalihackz
 
 ## I'm a Student, Ethical Hacker, and Web Developer!
