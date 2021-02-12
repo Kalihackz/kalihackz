@@ -12,10 +12,10 @@
 
 ### 🧧 Connect with me:
 
-[<img align="left" alt="kalihackz | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="mridul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="mridul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mridul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="kalihackz | YouTube" width="45px" src="http://pngimg.com/uploads/youtube/youtube_PNG15.png" />][youtube]
+[<img align="left" alt="kalihackz | Facebook" width="40px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19760.png" />][facebook]
+[<img align="left" alt="kalihackz | Instagram" width="30px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
+[<img align="left" alt="kalihackz | Twitter" width="30px" src="http://pngimg.com/uploads/twitter/twitter_PNG95259.png" />][twitter]
 
 <br />
 
