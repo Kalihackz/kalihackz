@@ -1,4 +1,4 @@
-<img alt="Issues" src="https://img.shields.io/badge/user-Kalihackz-blueviolet" /> <img alt="Issues" src="https://img.shields.io/badge/tags-student , developer , hacker-blue" /> 
+<img alt="Issues" src="https://img.shields.io/static/v1?label=user&message=Kalihackz&color=blueviolet&&style=for-the-badge&logo=appveyor" /> <img alt="Issues" src="https://img.shields.io/badge/tags-student , developer , hacker-blue" /> 
 
 ## Hi, I'm Kalihackz
 
