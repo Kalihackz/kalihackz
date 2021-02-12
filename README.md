@@ -26,7 +26,7 @@
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Java" width="40px" src="https://toppng.com/uploads/preview/java-eps-vector-logo-download-free-11574097023vsqnftopfe.png" />
-<img align="left" alt="C" width="40px" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" />
+<img align="left" alt="C" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mongodb/mongodb.png" />
