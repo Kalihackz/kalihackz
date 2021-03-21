@@ -44,6 +44,6 @@
 [myprofile]: https://github.com/Kalihackz
 [youtube]: https://www.youtube.com/channel/UCclAuQNM5YllVh7PKQp50cQ
 [facebook]: https://www.facebook.com/abir.ghosh.9279/
-[instagram]: https://www.instagram.com/abirghoshmarch1999/
+[instagram]: https://www.instagram.com/abir.kalihackz/
 [twitter]: https://twitter.com/itsmeabir2
 [react]: https://reactjs.org/
