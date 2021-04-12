@@ -32,7 +32,7 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.mridul28.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" />
+<img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" />
 
 <br />
 
