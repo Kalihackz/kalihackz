@@ -1,3 +1,4 @@
+![](https://visitor-badge.glitch.me/badge?page_id=kalihackz.kalihackz)
 <img alt="user" src="https://img.shields.io/static/v1?label=user&message=Kalihackz&color=blueviolet&&style=for-the-badge&logo=Super-User" /> <img alt="tags:" src="https://img.shields.io/static/v1?label=tags&message=:" /> <img alt="tags" src="https://img.shields.io/static/v1?label=Hacker&message=%20&color=blue&&logo=Kali-Linux&logoColor=white" /> <img alt="tags" src="https://img.shields.io/static/v1?label=Developer&message=%20&color=blue&&logo=dev.to&logoColor=green" /> 
 
 ## Hi, I'm Kalihackz
