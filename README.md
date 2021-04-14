@@ -34,9 +34,10 @@
 
 ### 💳 Language Card
 
-<p align="center"><img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" /></p>
+<p align="center"><img alt="Kalihackz's language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" /></p>
 
 <br />
+### ⚙ Github Stats:
 <p align="center"><img alt="Kalihackz Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&theme=tokyonight" /></p>
 
 [myprofile]: https://github.com/Kalihackz
