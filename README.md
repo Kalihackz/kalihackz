@@ -37,11 +37,7 @@
 <p align="center"><img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" /></p>
 
 <br />
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <p align="center"><img alt="Kalihackz Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&theme=tokyonight" /></p>
-</details>
+<p align="center"><img alt="Kalihackz Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&theme=tokyonight" /></p>
 
 [myprofile]: https://github.com/Kalihackz
 [youtube]: https://www.youtube.com/channel/UCclAuQNM5YllVh7PKQp50cQ
