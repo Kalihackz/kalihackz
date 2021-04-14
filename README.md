@@ -32,13 +32,13 @@
 
 ### 💳 Language Card
 
-<img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" />
+<p align="center"><img align="center" alt="Kalihackz's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" /></p>
 
 <br />
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&theme=tokyonight" />
+  <p align="center"><img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&hide_border=true&hide=stars,contribs,prs,issues&theme=tokyonight" /></p>
 </details>
 
 [myprofile]: https://github.com/Kalihackz
