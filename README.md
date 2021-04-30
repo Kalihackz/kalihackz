@@ -7,12 +7,11 @@
 
 <img align="right" alt="kalihackz | coding" title="coding" height="220px" src="https://i.imgur.com/biGgTow.gif" />
 
-◾ 💻 Currently learning **React**.
-<br/>
-◾ 🥅 2021 Goals: Being Fluent in **React**.
-<br/>
-◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
-<br/>
+> #### Some Facts :
+>
+> ◾ 💻 Currently learning **React**. <br/>
+> ◾ 🥅 2021 Goals: Being Fluent in **React**. </br>
+> ◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
 
 <img src="https://via.placeholder.com/1270x120/0d1117/77ff00?text=Connect+with+me" />
 
