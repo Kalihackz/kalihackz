@@ -14,7 +14,7 @@
 ◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
 <br/>
 
-### 🧧 Connect with me:
+<h1 align="center">🧧 Connect with me:</h1>
 
 [<img align="left" alt="kalihackz | YouTube" title="Youtube" width="30px" src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" />][youtube]
 [<img align="left" alt="kalihackz | Facebook" title="Facebook" width="30px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
