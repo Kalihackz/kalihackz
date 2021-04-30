@@ -9,9 +9,10 @@
     <tr>
         <td>◾ 💻 Currently learning **React**. <br/> ◾ 🥅 2021 Goals: Being Fluent in **React**. </br> ◾ ❤ Fun fact: I love to Play PUBG Mobile KR so much.</td>
         <td>
-<img align="right" alt="kalihackz | coding" title="coding" height="220px" src="https://i.imgur.com/biGgTow.gif" /></td>
+<img alt="kalihackz | coding" title="coding" height="220px" src="https://i.imgur.com/biGgTow.gif" /></td>
     </tr>
  </table
+ <br>
 
 <img src="https://via.placeholder.com/1270x120/0d1117/77ff00?text=Connect+with+me" />
 
