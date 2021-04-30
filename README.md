@@ -14,19 +14,24 @@
 ◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
 <br/>
 
- <a href="https://www.qries.com/">
-         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
-         width=150" height="70">
- </a>
-
 <img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Connect+with+me" />
 
-[<img align="left" alt="kalihackz | YouTube" title="Youtube" width="30px" src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" />][youtube]
-[<img align="left" alt="kalihackz | Facebook" title="Facebook" width="30px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
-[<img align="left" alt="kalihackz | Instagram" title="Instagram" width="30px" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" />][instagram]
-[<img align="left" alt="kalihackz | Twitter" title="Twitter" width="30px" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" />][twitter]
+<a href="https://www.qries.com/">
+ <img src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" alt="kalihackz | YouTube" title="Youtube" width="30px">
+</a>
+ 
+<a href="https://www.qries.com/">
+ <img alt="Qries" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" alt="kalihackz | Facebook" title="Facebook" width="30px">
+</a>
+ 
+<a href="https://www.qries.com/">
+ <img alt="Qries" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" alt="kalihackz | Instagram" title="Instagram" width="30px">
+</a>
+ 
+<a href="https://www.qries.com/">
+ <img alt="Qries" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" alt="kalihackz | Twitter" title="Twitter" width="30px">
+</a>
 
-<br />
 <br />
 
 ### ⚙ Languages and Database I use:
