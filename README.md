@@ -5,7 +5,7 @@
 <img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=Hi,+I'm+Kalihackz" />
 <img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=I%27m+a+Student,+Ethical+Hacker,+and+Web+Developer!" />
 
-<img align="right" alt="kalihackz | YouTube" title="Youtube" height="220px" src="https://i.imgur.com/biGgTow.gif" />
+<img align="right" alt="kalihackz | coding" title="coding" height="220px" src="https://i.imgur.com/biGgTow.gif" />
 
 ◾ 💻 Currently learning **[React][react]**.
 <br/>
@@ -16,7 +16,7 @@
 
 <img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Connect+with+me" />
 
-<span align="center">
+<p align="center">
  
 <a href="https://www.youtube.com/channel/UCclAuQNM5YllVh7PKQp50cQ">
  <img src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" alt="kalihackz | YouTube" title="Youtube" width="30px">
@@ -34,7 +34,7 @@
  <img src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" alt="kalihackz | Twitter" title="Twitter" width="30px">
 </a>
 
-</span>
+</p>
 
 
 <br />
