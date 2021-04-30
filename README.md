@@ -36,10 +36,7 @@
 
 </p>
 
-
-<br />
-
-### ⚙ Languages and Database I use:
+<img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Languages+and+Database+I+use" />
 
 <table border="10px solid">
     <tr>
