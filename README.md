@@ -14,7 +14,12 @@
 ◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
 <br/>
 
-<h1 align="center">🧧 Connect with me:</h1>
+ <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=150" height="70">
+ </a>
+
+<img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Connect+with+me" />
 
 [<img align="left" alt="kalihackz | YouTube" title="Youtube" width="30px" src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" />][youtube]
 [<img align="left" alt="kalihackz | Facebook" title="Facebook" width="30px" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" />][facebook]
