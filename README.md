@@ -16,19 +16,19 @@
 
 <img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Connect+with+me" />
 
-<a href="https://www.qries.com/">
+<a href="https://www.youtube.com/channel/UCclAuQNM5YllVh7PKQp50cQ">
  <img src="http://pngimg.com/uploads/youtube/youtube_PNG19.png" alt="kalihackz | YouTube" title="Youtube" width="30px">
 </a>
  
-<a href="https://www.qries.com/">
+<a href="https://www.facebook.com/abir.ghosh.9279/">
  <img alt="Qries" src="http://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19762.png" alt="kalihackz | Facebook" title="Facebook" width="30px">
 </a>
  
-<a href="https://www.qries.com/">
+<a href="https://www.instagram.com/abir.kalihackz/">
  <img alt="Qries" src="http://pngimg.com/uploads/instagram/instagram_PNG11.png" alt="kalihackz | Instagram" title="Instagram" width="30px">
 </a>
  
-<a href="https://www.qries.com/">
+<a href="https://twitter.com/itsmeabir2">
  <img alt="Qries" src="http://pngimg.com/uploads/twitter/twitter_PNG29.png" alt="kalihackz | Twitter" title="Twitter" width="30px">
 </a>
 
@@ -68,9 +68,3 @@
 ### ⚙ Github Stats:
 <p align="center"><img alt="Kalihackz Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&theme=tokyonight" /></p>
 
-[myprofile]: https://github.com/Kalihackz
-[youtube]: https://www.youtube.com/channel/UCclAuQNM5YllVh7PKQp50cQ
-[facebook]: https://www.facebook.com/abir.ghosh.9279/
-[instagram]: https://www.instagram.com/abir.kalihackz/
-[twitter]: https://twitter.com/itsmeabir2
-[react]: https://reactjs.org/
