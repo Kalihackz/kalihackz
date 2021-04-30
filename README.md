@@ -7,14 +7,14 @@
 
 <img align="right" alt="kalihackz | coding" title="coding" height="220px" src="https://i.imgur.com/biGgTow.gif" />
 
-◾ 💻 Currently learning **[React][react]**.
+◾ 💻 Currently learning **React**.
 <br/>
-◾ 🥅 2021 Goals: Being Fluent in **[React][react]**.
+◾ 🥅 2021 Goals: Being Fluent in **React**.
 <br/>
 ◾ ❤ Fun fact: I love to Play **[PUBG Mobile KR](https://www.pubgmobile.kr/)** so much.
 <br/>
 
-<img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Connect+with+me" />
+<img src="https://via.placeholder.com/1270x120/0d1117/77ff00?text=Connect+with+me" />
 
 <p align="center">
  
@@ -36,7 +36,7 @@
 
 </p>
 
-<img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=Languages+and+Database+I+use" />
+<img src="https://via.placeholder.com/1270x120/0d1117/ff00c8?text=Languages+and+Database+I+use" />
 
 <table border="10px solid">
     <tr>
@@ -61,11 +61,11 @@
 
 <br />
 
-### 💳 Language Card
+<img src="https://via.placeholder.com/1270x120/0d1117/ffb300?text=Language+Card" />
 
 <p align="center"><img alt="Kalihackz's language card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalihackz&&layout=compact&&theme=tokyonight" /></p>
 
 <br />
 
-### ⚙ Github Stats:
+<img src="https://via.placeholder.com/1270x120/0d1117/ff00c8?text=Github+Stats" />
 <p align="center"><img alt="Kalihackz Github Stats" src="https://github-readme-stats.vercel.app/api?username=kalihackz&show_icons=true&theme=tokyonight" /></p>
