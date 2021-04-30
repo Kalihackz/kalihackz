@@ -26,7 +26,7 @@
 
 ### ⚙ Languages and Database I use:
 
-<table>
+<table border="10px solid">
     <tr>
         <td><img alt="HTML5" title="Html5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> Html5</td>
         <td><img  alt="CSS3" title="Css3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> Css3</td>
