@@ -7,7 +7,7 @@
 
 <table>
     <tr>
-        <td><img width="441" height="1"><br/>◾ 💻 Currently learning Wordpress (Plugins and Themes). <br/> ◾ 🥅 2021 Goals: Being Fluent in Wordpress Development. </br> ◾ ❤ Fun fact: I love to Play BGMI and PUBG:New State so much.</td>
+        <td><img width="441" height="1"><br/>◾ 💻 Currently learning Wordpress (Plugins and Themes). <br/> ◾ 🥅 2022 Goals: Being Fluent in Python Development. </br> ◾ ❤ Fun fact: I love to Play BGMI and PUBG:New State so much.</td>
         <td align="right"><img alt="kalihackz | coding" title="coding" width="441px" src="https://i.imgur.com/biGgTow.gif" /></td>
     </tr>
  </table
