@@ -5,6 +5,12 @@
 <img src="https://via.placeholder.com/1270x120/0d1117/fffff?text=Hi,+I'm+Kalihackz" />
 <img src="https://via.placeholder.com/1270x120/0d1117/00fbff?text=I%27m+a+Student,+Ethical+Hacker,+and+Web+Developer!" />
 
+Websites : 
+<br>
+https://react-own-website-kalihackz.vercel.app/ <br>
+https://kalihackz.tk <br>
+<br>
+
 <table>
     <tr>
         <td><img width="441" height="1"><br/>◾ 💻 Currently learning React JS. <br/> ◾ 🥅 2022 Goals: Being Fluent in Python Development. </br> ◾ ❤ Fun fact: I love to Play BGMI and PUBG:New State so much.</td>
